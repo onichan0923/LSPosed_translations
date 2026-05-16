@@ -265,8 +265,6 @@
     <string name="settings_palette_style_summary">Tonal algorithm used to derive the Material 3 palette</string>
     <string name="settings_color_spec">Color spec</string>
     <string name="settings_color_spec_summary">Material 3 color specification version</string>
-    <string name="settings_use_dynamic_color">Dynamic color</string>
-    <string name="settings_use_dynamic_color_summary">Derive colors from system wallpaper (Android 12+)</string>
     <string name="settings_page_scale">Page scale</string>
     <string name="settings_page_scale_summary">Adjust the global display scale</string>
     <string name="settings_enable_blur">Blur</string>

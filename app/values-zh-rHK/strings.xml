@@ -247,8 +247,6 @@
     <string name="settings_palette_style_summary">用於衍生 Material 3 調色盤嘅色調演算法</string>
     <string name="settings_color_spec">色彩規範</string>
     <string name="settings_color_spec_summary">Material 3 色彩規範版本</string>
-    <string name="settings_use_dynamic_color">動態取色</string>
-    <string name="settings_use_dynamic_color_summary">由系統桌布衍生色彩（Android 12+）</string>
     <string name="settings_page_scale">介面縮放</string>
     <string name="settings_page_scale_summary">調整全域嘅顯示比例</string>
     <string name="settings_enable_blur">模糊</string>

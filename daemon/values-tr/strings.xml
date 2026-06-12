@@ -1,11 +1,12 @@
 <resources>
     <!-- Notification -->
+    <string name="list_separator">, </string>
     <string name="module_is_not_activated_yet">Xposed modülü henüz etkin değil</string>
     <string name="module_is_not_activated_yet_main_user_detailed">%1$s yüklendi ama henüz etkin değil</string>
     <string name="module_is_not_activated_yet_multi_user_detailed">%1$s, %2$s kullanıcısına yüklendi ama henüz etkin değil</string>
     <string name="xposed_module_updated_notification_title">Xposed modülü güncellendi</string>
-    <string name="xposed_module_updated_notification_content">%s güncellendi, lütfen kapsamındaki uygulamaları zorla durdurup yeniden başlatın.</string>
     <string name="xposed_module_updated_notification_title_system">Xposed modülü güncellendi, sistem yeniden başlatma gerekiyor</string>
+    <string name="xposed_module_updated_notification_content">%s güncellendi, lütfen kapsamındaki uygulamaları zorla durdurup yeniden başlatın.</string>
     <string name="xposed_module_updated_notification_content_system">%s güncellendi. Kapsamı Sistem Çerçevesi içerdiği için değişikliklerin uygulanması için yeniden başlatın.</string>
     <string name="xposed_module_enabled_notification_title">Xposed modülü etkinleştirildi</string>
     <string name="xposed_module_enabled_notification_content">%s etkinleştirildi, kapsamı ayarlamak için dokunun</string>

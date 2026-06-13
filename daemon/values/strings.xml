@@ -12,16 +12,16 @@
     <string name="xposed_module_updated_notification_reload">%1$s has been updated, %2$s</string>
     <string name="xposed_module_updated_notification_reload_none">%s has been updated</string>
     <plurals name="xposed_module_updated_notification_reload_reloaded">
-        <item quantity="one">%d target hot reloaded</item>
-        <item quantity="other">%d targets hot reloaded</item>
+        <item quantity="one">%d process hot reloaded</item>
+        <item quantity="other">%d processes hot reloaded</item>
     </plurals>
     <plurals name="xposed_module_updated_notification_reload_reloading">
-        <item quantity="one">%d target hot reloading</item>
-        <item quantity="other">%d targets hot reloading</item>
+        <item quantity="one">%d process hot reloading</item>
+        <item quantity="other">%d processes hot reloading</item>
     </plurals>
     <plurals name="xposed_module_updated_notification_reload_failed">
-        <item quantity="one">%d target hot reload failed</item>
-        <item quantity="other">%d targets hot reload failed</item>
+        <item quantity="one">%d process hot reload failed</item>
+        <item quantity="other">%d processes hot reload failed</item>
     </plurals>
     <string name="xposed_module_enabled_notification_title">Xposed module enabled</string>
     <string name="xposed_module_enabled_notification_content">%s has been enabled, tap to setup scope</string>

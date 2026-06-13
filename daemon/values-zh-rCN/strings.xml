@@ -12,13 +12,13 @@
     <string name="xposed_module_updated_notification_reload">%1$s 已更新，%2$s</string>
     <string name="xposed_module_updated_notification_reload_none">%s 已更新</string>
     <plurals name="xposed_module_updated_notification_reload_reloaded">
-        <item quantity="other">%d 应用已热重载</item>
+        <item quantity="other">%d 个进程已热重载</item>
     </plurals>
     <plurals name="xposed_module_updated_notification_reload_reloading">
-        <item quantity="other">%d 应用热重载中</item>
+        <item quantity="other">%d 个进程热重载中</item>
     </plurals>
     <plurals name="xposed_module_updated_notification_reload_failed">
-        <item quantity="other">%d 应用热重载失败</item>
+        <item quantity="other">%d 个进程热重载失败</item>
     </plurals>
     <string name="xposed_module_enabled_notification_title">Xposed 模块已启用</string>
     <string name="xposed_module_enabled_notification_content">%s 已启用，点按以设置作用域</string>
